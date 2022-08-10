@@ -1,2 +1,1 @@
-# MiniSiteTemplate
-Mini Site Template for JS Projects
+# Zero to One Hundred
